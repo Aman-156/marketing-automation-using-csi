@@ -1,0 +1,21 @@
+/* templates/style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #0056b3;
+}
+
+ul {
+    list-style-type: square;
+}
